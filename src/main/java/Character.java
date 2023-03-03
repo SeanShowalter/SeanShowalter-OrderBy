@@ -1,5 +1,5 @@
 
-import java.util.Objects;
+import java.util.Objects; 
 
 /**
  * This class defines a Character object. Objects of this class represent one row of a database table. The table
